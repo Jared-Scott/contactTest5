@@ -107,6 +107,8 @@ function ValidateForm(){
    
  else
  validZip = true;
+ else
+    validZip = true;
   
   //no validation code for comments because comments are optional.
   
